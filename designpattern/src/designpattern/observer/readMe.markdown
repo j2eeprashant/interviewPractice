@@ -7,4 +7,4 @@ Behavioural design patterns are concerned with the interaction and responsibilit
 
 Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. It is also referred to as the publish-subscribe pattern.
 
-![alt text](https://github.com/j2eeprashant/interviewPractice/blob/master/designpattern/src/designpattern/observer/observer1.png?raw=true)
+![alt text](https://github.com/j2eeprashant/interviewPractice/blob/master/designpattern/src/designpattern/observer/observer.png?raw=true)
